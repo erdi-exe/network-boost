@@ -2,7 +2,7 @@
 # It cannot go faster than your internet plan, router, or signal.
 # Run it with: python boost_net.py
 # Or double-click boost.bat
-
+# Working
 import ctypes
 import os
 import subprocess
